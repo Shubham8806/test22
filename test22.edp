@@ -7,6 +7,7 @@
     <VCActive val="Y"/>
     <WorkOffline val="N"/>
     <VCUseGitPlugin val="N"/>
+    <VCProjectName val="."/>
     <SourceDirectory val="Source"/>
     <ExportsDirectory val="Exports"/>
     <GUID val="{0E3FA675-182F-4A1B-8669-F12AD8A2C64C}"/>
